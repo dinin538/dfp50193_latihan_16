@@ -105,8 +105,8 @@ $example = [
 
     <table>
         <tr style="background: red; color: white">
-            <td><b>PROGRAM</b></td>
-            <td><b>KELAYAKAN</b></td>
+            <th><b>PROGRAM</b></th>
+            <th><b>KELAYAKAN</b></th>
         </tr>
     <?php
     foreach ($example as $poli => $value){
